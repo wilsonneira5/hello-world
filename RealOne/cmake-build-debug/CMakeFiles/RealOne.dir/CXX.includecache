@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++ Class/CLionProjects/RealOne/Account.h
+string
+-
+
+D:/C++ Class/CLionProjects/RealOne/AccountTest.cpp
+iostream
+-
+Account.h
+D:/C++ Class/CLionProjects/RealOne/Account.h
+
