@@ -11,7 +11,7 @@ public:
         // validate that the initialBalance is greater than 0; if not,
         // data member balance keeps its default initial value of 0
         if (initialBalance > 0) { // if the initialBalance is valid
-            balance += initialBalance; // assign it to data member balance
+            balance = initialBalance; // assign it to data member balance
         }
     }
 
