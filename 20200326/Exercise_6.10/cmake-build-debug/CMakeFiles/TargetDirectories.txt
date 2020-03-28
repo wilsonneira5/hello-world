@@ -1,0 +1,3 @@
+C:/Users/wilso/CLionProjects/Exercise_6.10/cmake-build-debug/CMakeFiles/Exercise_6_10.dir
+C:/Users/wilso/CLionProjects/Exercise_6.10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wilso/CLionProjects/Exercise_6.10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
