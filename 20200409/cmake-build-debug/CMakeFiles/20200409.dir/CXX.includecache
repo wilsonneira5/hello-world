@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/wilso/CLionProjects/20200409/Time.cpp
+iomanip
+-
+stdexcept
+-
+sstream
+-
+string
+-
+Time.h
+C:/Users/wilso/CLionProjects/20200409/Time.h
+
+C:/Users/wilso/CLionProjects/20200409/Time.h
+string
+-
+
+C:/Users/wilso/CLionProjects/20200409/main.cpp
+iostream
+-
+
